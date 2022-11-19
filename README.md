@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **chidiamara/chidiamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://activity-graph.herokuapp.com/graph?username=chidiamara&theme=chartreuse-dark"/>
+
+<img align="center" style="display: flex; justify-content: center; " margin="0" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chidiamara&show_icons=true&theme=radical&locale=en&layout=compact" alt="chidiamara" />
+
+<img width="100%" height="10%" src="https://github-readme-stats.vercel.app/api?username=chidiamara&show_icons=true&theme=radical">
+
+<img align="center"  style=" align-self:center; border: solid 2px white; margin-right:10px " alt="number of profile views" src="https://komarev.com/ghpvc/?username=chidiamara&style=for-the-badge" />
